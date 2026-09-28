@@ -55,3 +55,6 @@ Har request aur response shared Zod contracts se validate hota hai. Invalid requ
 ## Current scope
 
 Ek deployable Next.js app mein UI aur teen route handlers hain. Database migrations, seed data, authentication, payments, logo generation, aur Azure resources is approved scope ka hissa nahi hain.
+
+
+live demo link:https://brand-kit-neon-two.vercel.app
